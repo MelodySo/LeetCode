@@ -1,0 +1,10 @@
+Library
+UnityVS
+Temp
+ProjectSettings
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.ide
+*.userprefs
