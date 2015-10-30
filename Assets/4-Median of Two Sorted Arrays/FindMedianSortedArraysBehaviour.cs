@@ -2,12 +2,6 @@
 using System.Collections;
 using FindMedianSortedArrays;
 public class FindMedianSortedArraysBehaviour : MonoBehaviour {
-	void Awake(){
-		Debug.Log ("Awake");
-	}
-	void Start(){
-		Debug.Log ("Start");
-	}
 	FindMedianSortedArrays.Solution solution=new FindMedianSortedArrays.Solution();
 	public int[] nums1;
 	public int[] nums2;
