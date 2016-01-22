@@ -8,3 +8,5 @@ ProjectSettings
 *.suo
 *.ide
 *.userprefs
+obj
+Assets/ZhaoYe
